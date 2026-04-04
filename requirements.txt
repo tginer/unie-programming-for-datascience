@@ -1,0 +1,19 @@
+# Runtime
+ipykernel>=7.2.0
+
+# Data manipulation
+numpy>=2.4.4
+pandas>=3.0.2
+
+# Visualization
+matplotlib>=3.10.8
+seaborn>=0.13.2
+
+# Machine learning
+scikit-learn>=1.8.0
+
+# Graph analysis
+networkx>=3.6.1
+
+# Datasets
+kagglehub>=1.0.0
